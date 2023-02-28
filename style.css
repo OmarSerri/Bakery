@@ -1,0 +1,235 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.clearfix
+{
+    clear: both;
+}
+
+.banner
+{
+    background-image: url(images/drew-coffman-1872.jpg);
+    text-align: center;
+    height: 85vh;
+    background-position: center center;
+    color: white;
+}
+
+.head-lines
+{
+    width: 40%;
+    margin: auto;
+}
+
+.banner .head-lines
+{
+    padding: 230px 0px;
+}
+
+.banner h3
+{
+    padding: 20px;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 22px;
+}
+
+.banner h1
+{
+    padding: 20px;
+    font-size: 50px;
+    font-family: 'Alegreya', serif;
+}
+
+.banner p
+{
+    padding: 20px 50px ;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 150%;
+}
+
+.banner button
+{
+    border: transparent ;
+    padding: 20px 30px;
+    margin: 20px 10px;
+    border-radius: 5%;
+    color: white;
+}
+
+.banner .btn1
+{
+    border: 2px solid transparent;
+    background-color: #8e7754;
+}
+
+.banner .btn2
+{
+    background-color: transparent;
+    border: 2px solid white;
+}
+
+.part1
+{
+    padding: 100px 0px;
+}
+
+.bread-img
+{
+    width: 100%;
+}
+.bread-img img
+{
+    margin-left: 300px;
+    width: 30%;
+    float: left;
+}
+
+.pargh1
+{
+    margin-top: 30px;
+    margin-left: 70px;
+    width: 40%;
+    float: left;
+}
+
+.pargh1 h2
+{
+    padding: 30px 0px;
+    font-family: 'Alegreya', serif;
+    font-size: 25px;
+}
+
+.pargh1 p
+{
+    padding: 20px 100px 50px 0px;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 20px;
+}
+
+.points
+{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 20px;
+    padding: 0px 0px 0px 20px;
+}
+
+.part2
+{
+    background-color: #8e7754;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.pargh2
+{
+    width: 40%;
+    float: left;
+    margin: 250px 0px 50px 300px ;
+}
+
+.img2
+{
+    width: 100%;
+}
+
+.img2 img
+{
+    width: 30%;
+    float: left;
+    padding: 100px 0px 100px 0px;
+}
+
+.pargh2 h2
+{
+    padding-bottom: 20px;
+}
+.pargh2 .p1
+{
+    margin: 0px 100px 20px 0px;
+}
+.pargh2 .p2
+{
+    margin: 0px 100px 20px 0px;
+}
+
+.part3
+{
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.phase
+{
+    width: 25%;
+    text-align: center;
+    float: left;
+    padding: 0px 0px 50px 125px;
+}
+.part3 .phase .photo
+{
+    width: 80%;
+}
+.part3 .header
+{
+    text-align: center;
+    padding: 50px 0px;
+}
+.header .header1
+{
+    margin: 20px 0px;
+}
+.photo
+{
+    margin-bottom: 30px;
+}
+.phase h3
+{
+    margin-bottom: 30px;
+}
+.phase p
+{
+    padding:0px 40px 0px 40px ;
+}
+
+.part4
+{
+    background-color: #8e7754;
+    font-family: 'Alegreya Sans', sans-serif;
+    padding-top: 50px;
+
+}
+.part4 .pargh4
+{
+    width: 30%;
+    float: left;
+    padding-left: 200px;
+}
+.part4 .map
+{
+    width: 40%;
+    float: right;
+    text-align: center;
+}
+.part4 .map img
+{
+    padding: 200px 0px 200px 0px;
+    width: 80%;
+}
+.pargh4 h2
+{
+    padding: 50px 30px 30px 30px;
+}
+.pargh4 p
+{
+    padding: 40px 30px;
+}
+.part4 ul
+{
+    padding: 50px 45px;
+}
+.part4 label
+{
+    padding: 10px 30px;
+
+}
